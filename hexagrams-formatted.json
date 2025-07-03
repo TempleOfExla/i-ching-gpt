@@ -1,0 +1,770 @@
+{
+  "1": {
+    "number": 1,
+    "name": "乾 Force",
+    "hexagram": "䷀",
+    "bin": "111111",
+    "trigrams": {
+      "upper": "☰",
+      "upper_bin": "111",
+      "lower": "☰",
+      "lower_bin": "111"
+    }
+  },
+  "2": {
+    "number": 2,
+    "name": "坤 Field",
+    "hexagram": "䷁",
+    "bin": "000000",
+    "trigrams": {
+      "upper": "☷",
+      "upper_bin": "000",
+      "lower": "☷",
+      "lower_bin": "000"
+    }
+  },
+  "3": {
+    "number": 3,
+    "name": "屯 Sprouting",
+    "hexagram": "䷂",
+    "bin": "100010",
+    "trigrams": {
+      "upper": "☵",
+      "upper_bin": "010",
+      "lower": "☳",
+      "lower_bin": "100"
+    }
+  },
+  "4": {
+    "number": 4,
+    "name": "蒙 Enveloping",
+    "hexagram": "䷃",
+    "bin": "010001",
+    "trigrams": {
+      "upper": "☶",
+      "upper_bin": "001",
+      "lower": "☵",
+      "lower_bin": "010"
+    }
+  },
+  "5": {
+    "number": 5,
+    "name": "需 Attending",
+    "hexagram": "䷄",
+    "bin": "111010",
+    "trigrams": {
+      "upper": "☵",
+      "upper_bin": "010",
+      "lower": "☰",
+      "lower_bin": "111"
+    }
+  },
+  "6": {
+    "number": 6,
+    "name": "訟 Conflict",
+    "hexagram": "䷅",
+    "bin": "010111",
+    "trigrams": {
+      "upper": "☰",
+      "upper_bin": "111",
+      "lower": "☵",
+      "lower_bin": "010"
+    }
+  },
+  "7": {
+    "number": 7,
+    "name": "師 Army",
+    "hexagram": "䷆",
+    "bin": "010000",
+    "trigrams": {
+      "upper": "☷",
+      "upper_bin": "000",
+      "lower": "☵",
+      "lower_bin": "010"
+    }
+  },
+  "8": {
+    "number": 8,
+    "name": "比 Grouping",
+    "hexagram": "䷇",
+    "bin": "000010",
+    "trigrams": {
+      "upper": "☵",
+      "upper_bin": "010",
+      "lower": "☷",
+      "lower_bin": "000"
+    }
+  },
+  "9": {
+    "number": 9,
+    "name": "小畜 Taming Small",
+    "hexagram": "䷈",
+    "bin": "111011",
+    "trigrams": {
+      "upper": "☴",
+      "upper_bin": "011",
+      "lower": "☰",
+      "lower_bin": "111"
+    }
+  },
+  "10": {
+    "number": 10,
+    "name": "履 Treading",
+    "hexagram": "䷉",
+    "bin": "110111",
+    "trigrams": {
+      "upper": "☰",
+      "upper_bin": "111",
+      "lower": "☱",
+      "lower_bin": "110"
+    }
+  },
+  "11": {
+    "number": 11,
+    "name": "泰 Peace",
+    "hexagram": "䷊",
+    "bin": "111000",
+    "trigrams": {
+      "upper": "☷",
+      "upper_bin": "000",
+      "lower": "☰",
+      "lower_bin": "111"
+    }
+  },
+  "12": {
+    "number": 12,
+    "name": "否 Standstill",
+    "hexagram": "䷋",
+    "bin": "000111",
+    "trigrams": {
+      "upper": "☰",
+      "upper_bin": "111",
+      "lower": "☷",
+      "lower_bin": "000"
+    }
+  },
+  "13": {
+    "number": 13,
+    "name": "同人 Fellowship",
+    "hexagram": "䷌",
+    "bin": "101111",
+    "trigrams": {
+      "upper": "☰",
+      "upper_bin": "111",
+      "lower": "☲",
+      "lower_bin": "101"
+    }
+  },
+  "14": {
+    "number": 14,
+    "name": "大有 Great Possession",
+    "hexagram": "䷍",
+    "bin": "111101",
+    "trigrams": {
+      "upper": "☲",
+      "upper_bin": "101",
+      "lower": "☰",
+      "lower_bin": "111"
+    }
+  },
+  "15": {
+    "number": 15,
+    "name": "謙 Modesty",
+    "hexagram": "䷎",
+    "bin": "001000",
+    "trigrams": {
+      "upper": "☷",
+      "upper_bin": "000",
+      "lower": "☶",
+      "lower_bin": "001"
+    }
+  },
+  "16": {
+    "number": 16,
+    "name": "豫 Enthusiasm",
+    "hexagram": "䷏",
+    "bin": "000100",
+    "trigrams": {
+      "upper": "☳",
+      "upper_bin": "100",
+      "lower": "☷",
+      "lower_bin": "000"
+    }
+  },
+  "17": {
+    "number": 17,
+    "name": "隨 Following",
+    "hexagram": "䷐",
+    "bin": "100110",
+    "trigrams": {
+      "upper": "☱",
+      "upper_bin": "110",
+      "lower": "☳",
+      "lower_bin": "100"
+    }
+  },
+  "18": {
+    "number": 18,
+    "name": "蠱 Decay Work",
+    "hexagram": "䷑",
+    "bin": "011001",
+    "trigrams": {
+      "upper": "☶",
+      "upper_bin": "001",
+      "lower": "☴",
+      "lower_bin": "011"
+    }
+  },
+  "19": {
+    "number": 19,
+    "name": "臨 Approach",
+    "hexagram": "䷒",
+    "bin": "110000",
+    "trigrams": {
+      "upper": "☷",
+      "upper_bin": "000",
+      "lower": "☱",
+      "lower_bin": "110"
+    }
+  },
+  "20": {
+    "number": 20,
+    "name": "觀 Contemplation",
+    "hexagram": "䷓",
+    "bin": "000011",
+    "trigrams": {
+      "upper": "☴",
+      "upper_bin": "011",
+      "lower": "☷",
+      "lower_bin": "000"
+    }
+  },
+  "21": {
+    "number": 21,
+    "name": "噬嗑 Biting Through",
+    "hexagram": "䷔",
+    "bin": "100101",
+    "trigrams": {
+      "upper": "☲",
+      "upper_bin": "101",
+      "lower": "☳",
+      "lower_bin": "100"
+    }
+  },
+  "22": {
+    "number": 22,
+    "name": "賁 Grace",
+    "hexagram": "䷕",
+    "bin": "101001",
+    "trigrams": {
+      "upper": "☶",
+      "upper_bin": "001",
+      "lower": "☲",
+      "lower_bin": "101"
+    }
+  },
+  "23": {
+    "number": 23,
+    "name": "剝 Splitting Apart",
+    "hexagram": "䷖",
+    "bin": "000001",
+    "trigrams": {
+      "upper": "☶",
+      "upper_bin": "001",
+      "lower": "☷",
+      "lower_bin": "000"
+    }
+  },
+  "24": {
+    "number": 24,
+    "name": "復 Return",
+    "hexagram": "䷗",
+    "bin": "100000",
+    "trigrams": {
+      "upper": "☷",
+      "upper_bin": "000",
+      "lower": "☳",
+      "lower_bin": "100"
+    }
+  },
+  "25": {
+    "number": 25,
+    "name": "無妄 Innumbercence",
+    "hexagram": "䷘",
+    "bin": "100111",
+    "trigrams": {
+      "upper": "☰",
+      "upper_bin": "111",
+      "lower": "☳",
+      "lower_bin": "100"
+    }
+  },
+  "26": {
+    "number": 26,
+    "name": "大畜 Great Taming",
+    "hexagram": "䷙",
+    "bin": "111001",
+    "trigrams": {
+      "upper": "☶",
+      "upper_bin": "001",
+      "lower": "☰",
+      "lower_bin": "111"
+    }
+  },
+  "27": {
+    "number": 27,
+    "name": "頤 Mouth Corners",
+    "hexagram": "䷚",
+    "bin": "100001",
+    "trigrams": {
+      "upper": "☶",
+      "upper_bin": "001",
+      "lower": "☳",
+      "lower_bin": "100"
+    }
+  },
+  "28": {
+    "number": 28,
+    "name": "大過 Great Exceeding",
+    "hexagram": "䷛",
+    "bin": "011110",
+    "trigrams": {
+      "upper": "☱",
+      "upper_bin": "110",
+      "lower": "☴",
+      "lower_bin": "011"
+    }
+  },
+  "29": {
+    "number": 29,
+    "name": "坎 Gorge",
+    "hexagram": "䷜",
+    "bin": "010010",
+    "trigrams": {
+      "upper": "☵",
+      "upper_bin": "010",
+      "lower": "☵",
+      "lower_bin": "010"
+    }
+  },
+  "30": {
+    "number": 30,
+    "name": "離 Radiance",
+    "hexagram": "䷝",
+    "bin": "101101",
+    "trigrams": {
+      "upper": "☲",
+      "upper_bin": "101",
+      "lower": "☲",
+      "lower_bin": "101"
+    }
+  },
+  "31": {
+    "number": 31,
+    "name": "咸 Influence",
+    "hexagram": "䷞",
+    "bin": "001110",
+    "trigrams": {
+      "upper": "☱",
+      "upper_bin": "110",
+      "lower": "☶",
+      "lower_bin": "001"
+    }
+  },
+  "32": {
+    "number": 32,
+    "name": "恒 Duration",
+    "hexagram": "䷟",
+    "bin": "011100",
+    "trigrams": {
+      "upper": "☳",
+      "upper_bin": "100",
+      "lower": "☴",
+      "lower_bin": "011"
+    }
+  },
+  "33": {
+    "number": 33,
+    "name": "遯 Retreat",
+    "hexagram": "䷠",
+    "bin": "001111",
+    "trigrams": {
+      "upper": "☰",
+      "upper_bin": "111",
+      "lower": "☶",
+      "lower_bin": "001"
+    }
+  },
+  "34": {
+    "number": 34,
+    "name": "大壯 Great Invigorating",
+    "hexagram": "䷡",
+    "bin": "111100",
+    "trigrams": {
+      "upper": "☳",
+      "upper_bin": "100",
+      "lower": "☰",
+      "lower_bin": "111"
+    }
+  },
+  "35": {
+    "number": 35,
+    "name": "晉 Prospering",
+    "hexagram": "䷢",
+    "bin": "000101",
+    "trigrams": {
+      "upper": "☲",
+      "upper_bin": "101",
+      "lower": "☷",
+      "lower_bin": "000"
+    }
+  },
+  "36": {
+    "number": 36,
+    "name": "明夷 Darkening of the Light",
+    "hexagram": "䷣",
+    "bin": "101000",
+    "trigrams": {
+      "upper": "☷",
+      "upper_bin": "000",
+      "lower": "☲",
+      "lower_bin": "101"
+    }
+  },
+  "37": {
+    "number": 37,
+    "name": "家人 Dwelling People",
+    "hexagram": "䷤",
+    "bin": "101011",
+    "trigrams": {
+      "upper": "☴",
+      "upper_bin": "011",
+      "lower": "☲",
+      "lower_bin": "101"
+    }
+  },
+  "38": {
+    "number": 38,
+    "name": "睽 Opposition",
+    "hexagram": "䷥",
+    "bin": "110101",
+    "trigrams": {
+      "upper": "☲",
+      "upper_bin": "101",
+      "lower": "☱",
+      "lower_bin": "110"
+    }
+  },
+  "39": {
+    "number": 39,
+    "name": "蹇 Obstruction",
+    "hexagram": "䷦",
+    "bin": "001010",
+    "trigrams": {
+      "upper": "☵",
+      "upper_bin": "010",
+      "lower": "☶",
+      "lower_bin": "001"
+    }
+  },
+  "40": {
+    "number": 40,
+    "name": "解 Deliverance",
+    "hexagram": "䷧",
+    "bin": "010100",
+    "trigrams": {
+      "upper": "☳",
+      "upper_bin": "100",
+      "lower": "☵",
+      "lower_bin": "010"
+    }
+  },
+  "41": {
+    "number": 41,
+    "name": "損 Decrease",
+    "hexagram": "䷨",
+    "bin": "110001",
+    "trigrams": {
+      "upper": "☶",
+      "upper_bin": "001",
+      "lower": "☱",
+      "lower_bin": "110"
+    }
+  },
+  "42": {
+    "number": 42,
+    "name": "益 Increase",
+    "hexagram": "䷩",
+    "bin": "100011",
+    "trigrams": {
+      "upper": "☴",
+      "upper_bin": "011",
+      "lower": "☳",
+      "lower_bin": "100"
+    }
+  },
+  "43": {
+    "number": 43,
+    "name": "夬 Breakthrough",
+    "hexagram": "䷪",
+    "bin": "111110",
+    "trigrams": {
+      "upper": "☱",
+      "upper_bin": "110",
+      "lower": "☰",
+      "lower_bin": "111"
+    }
+  },
+  "44": {
+    "number": 44,
+    "name": "姤 Meeting",
+    "hexagram": "䷫",
+    "bin": "011111",
+    "trigrams": {
+      "upper": "☰",
+      "upper_bin": "111",
+      "lower": "☴",
+      "lower_bin": "011"
+    }
+  },
+  "45": {
+    "number": 45,
+    "name": "萃 Gathering Together",
+    "hexagram": "䷬",
+    "bin": "000110",
+    "trigrams": {
+      "upper": "☱",
+      "upper_bin": "110",
+      "lower": "☷",
+      "lower_bin": "000"
+    }
+  },
+  "46": {
+    "number": 46,
+    "name": "升 Pushing Upward",
+    "hexagram": "䷭",
+    "bin": "011000",
+    "trigrams": {
+      "upper": "☷",
+      "upper_bin": "000",
+      "lower": "☴",
+      "lower_bin": "011"
+    }
+  },
+  "47": {
+    "number": 47,
+    "name": "困 Oppression",
+    "hexagram": "䷮",
+    "bin": "010110",
+    "trigrams": {
+      "upper": "☱",
+      "upper_bin": "110",
+      "lower": "☵",
+      "lower_bin": "010"
+    }
+  },
+  "48": {
+    "number": 48,
+    "name": "井 The Well",
+    "hexagram": "䷯",
+    "bin": "011010",
+    "trigrams": {
+      "upper": "☵",
+      "upper_bin": "010",
+      "lower": "☴",
+      "lower_bin": "011"
+    }
+  },
+  "49": {
+    "number": 49,
+    "name": "革 Revolution",
+    "hexagram": "䷰",
+    "bin": "101110",
+    "trigrams": {
+      "upper": "☱",
+      "upper_bin": "110",
+      "lower": "☲",
+      "lower_bin": "101"
+    }
+  },
+  "50": {
+    "number": 50,
+    "name": "鼎 The Cauldron",
+    "hexagram": "䷱",
+    "bin": "011101",
+    "trigrams": {
+      "upper": "☲",
+      "upper_bin": "101",
+      "lower": "☴",
+      "lower_bin": "011"
+    }
+  },
+  "51": {
+    "number": 51,
+    "name": "震 The Arousing",
+    "hexagram": "䷲",
+    "bin": "100100",
+    "trigrams": {
+      "upper": "☳",
+      "upper_bin": "100",
+      "lower": "☳",
+      "lower_bin": "100"
+    }
+  },
+  "52": {
+    "number": 52,
+    "name": "艮 Keeping Still",
+    "hexagram": "䷳",
+    "bin": "001001",
+    "trigrams": {
+      "upper": "☶",
+      "upper_bin": "001",
+      "lower": "☶",
+      "lower_bin": "001"
+    }
+  },
+  "53": {
+    "number": 53,
+    "name": "漸 Development",
+    "hexagram": "䷴",
+    "bin": "001011",
+    "trigrams": {
+      "upper": "☴",
+      "upper_bin": "011",
+      "lower": "☶",
+      "lower_bin": "001"
+    }
+  },
+  "54": {
+    "number": 54,
+    "name": "歸妹 Converting the Maiden",
+    "hexagram": "䷵",
+    "bin": "110100",
+    "trigrams": {
+      "upper": "☳",
+      "upper_bin": "100",
+      "lower": "☱",
+      "lower_bin": "110"
+    }
+  },
+  "55": {
+    "number": 55,
+    "name": "豐 Abundance",
+    "hexagram": "䷶",
+    "bin": "101100",
+    "trigrams": {
+      "upper": "☳",
+      "upper_bin": "100",
+      "lower": "☲",
+      "lower_bin": "101"
+    }
+  },
+  "56": {
+    "number": 56,
+    "name": "旅 Sojourning",
+    "hexagram": "䷷",
+    "bin": "001101",
+    "trigrams": {
+      "upper": "☲",
+      "upper_bin": "101",
+      "lower": "☶",
+      "lower_bin": "001"
+    }
+  },
+  "57": {
+    "number": 57,
+    "name": "巽 The Gentle",
+    "hexagram": "䷸",
+    "bin": "011011",
+    "trigrams": {
+      "upper": "☴",
+      "upper_bin": "011",
+      "lower": "☴",
+      "lower_bin": "011"
+    }
+  },
+  "58": {
+    "number": 58,
+    "name": "兌 Joyous",
+    "hexagram": "䷹",
+    "bin": "110110",
+    "trigrams": {
+      "upper": "☱",
+      "upper_bin": "110",
+      "lower": "☱",
+      "lower_bin": "110"
+    }
+  },
+  "59": {
+    "number": 59,
+    "name": "渙 Dispersion",
+    "hexagram": "䷺",
+    "bin": "010011",
+    "trigrams": {
+      "upper": "☴",
+      "upper_bin": "011",
+      "lower": "☵",
+      "lower_bin": "010"
+    }
+  },
+  "60": {
+    "number": 60,
+    "name": "節 Limitation",
+    "hexagram": "䷻",
+    "bin": "110010",
+    "trigrams": {
+      "upper": "☵",
+      "upper_bin": "010",
+      "lower": "☱",
+      "lower_bin": "110"
+    }
+  },
+  "61": {
+    "number": 61,
+    "name": "中孚 Inner Truth",
+    "hexagram": "䷼",
+    "bin": "110011",
+    "trigrams": {
+      "upper": "☴",
+      "upper_bin": "011",
+      "lower": "☱",
+      "lower_bin": "110"
+    }
+  },
+  "62": {
+    "number": 62,
+    "name": "小過 Small Exceeding",
+    "hexagram": "䷽",
+    "bin": "001100",
+    "trigrams": {
+      "upper": "☳",
+      "upper_bin": "100",
+      "lower": "☶",
+      "lower_bin": "001"
+    }
+  },
+  "63": {
+    "number": 63,
+    "name": "既濟 After Completion",
+    "hexagram": "䷾",
+    "bin": "101010",
+    "trigrams": {
+      "upper": "☵",
+      "upper_bin": "010",
+      "lower": "☲",
+      "lower_bin": "101"
+    }
+  },
+  "64": {
+    "number": 64,
+    "name": "未濟 Before Completion",
+    "hexagram": "䷿",
+    "bin": "010101",
+    "trigrams": {
+      "upper": "☲",
+      "upper_bin": "101",
+      "lower": "☵",
+      "lower_bin": "010"
+    }
+  }
+}

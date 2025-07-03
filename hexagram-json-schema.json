@@ -1,0 +1,47 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "I Ching Hexagram",
+  "type": "object",
+  "patternProperties": {
+    "^[0-9]+$": {
+      "type": "object",
+      "properties": {
+        "number": {
+          "type": "integer"
+        },
+        "name": {
+          "type": "string"
+        },
+        "hexagram": {
+          "type": "string"
+        },
+        "bin": {
+          "type": "string",
+          "pattern": "^[01]{6}$"
+        },
+        "trigrams": {
+          "type": "object",
+          "properties": {
+            "upper": {
+              "type": "string"
+            },
+            "upper_bin": {
+              "type": "string",
+              "pattern": "^[01]{3}$"
+            },
+            "lower": {
+              "type": "string"
+            },
+            "lower_bin": {
+              "type": "string",
+              "pattern": "^[01]{3}$"
+            }
+          },
+          "required": ["upper", "upper_bin", "lower", "lower_bin"]
+        }
+      },
+      "required": ["number", "name", "hexagram", "bin", "trigrams"]
+    }
+  },
+  "additionalProperties": false
+}
